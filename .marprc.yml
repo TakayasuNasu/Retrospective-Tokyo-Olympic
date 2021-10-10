@@ -1,0 +1,7 @@
+allowLocalFiles: true
+inputDir: "./slides"
+output: "./pdfs"
+pdf: true
+lang: en
+html: true
+theme: "./theme.css"

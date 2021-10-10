@@ -1,0 +1,8 @@
+/* @theme gaia-ex */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Roboto&display=swap");
+section {
+  font-family: "Noto Sans", "Roboto", sans-serif;
+  background-image: linear-gradient(109.6deg, #3ea1db 11.2%, #5d34ec 100.2%);
+  color: #ffffff;
+}
+/*# sourceMappingURL=theme.css.map */
