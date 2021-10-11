@@ -29,6 +29,18 @@ math: katex
 
 ---
 
+![](https://www.youtube.com/watch?v=luJGosl3CxQ)
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/luJGosl3CxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## How did this happen?
+
+---
+
 <!-- _class: youtube -->
 
 ## Draft of Opening ceremony
