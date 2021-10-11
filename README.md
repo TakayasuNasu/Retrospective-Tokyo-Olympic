@@ -1,3 +1,3 @@
 # Let's retrospective about Tokyo Olympic games 2021
 
-[Index page](https://takayasunasu.github.io/Retrospective-Tokyo-Olympic/)
+[to Slide](https://takayasunasu.github.io/Retrospective-Tokyo-Olympic/retrospective-tokyo-olympic.html)
