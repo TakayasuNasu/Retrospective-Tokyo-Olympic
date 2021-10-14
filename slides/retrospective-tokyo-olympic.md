@@ -31,8 +31,6 @@ math: katex
 
 ---
 
-<!-- _class: lt -->
-
 ## How did this happen?
 
 ---
@@ -43,28 +41,27 @@ math: katex
 
 ---
 
-## Problems
+## Stadium construction costs <br> highly went up.
+
+<div class="flex">
+  <p>In 2008, it was decided that the National Stadium in Tokyo would be rebuilt.<br>Initially, it was planned to be rebuilt that stadium organized by Zaha_Hadid who is from British.<br>but after the decisions, the over costs of construction turned out.<br>therefore her plan was rejected and another plan was accepted.</p>
+  <figure>
+    <img src="https://cdn-japantimes.com/wp-content/uploads/2015/12/n-hadid-z-20151225.jpg" alt="stadium">
+  </figure>
+</div>
 
 ---
 
-## Stadium construction costs highly went up.
-
-In 2008, it was decided that the National Stadium in Tokyo would be rebuilt.
-Initially, it was planned to be rebuilt that stadium organized by Zaha_Hadid who is from British.
-but after the decisions, the over costs of construction turned out.
-therefore her plan was rejected and another plan was accepted.
-
-![w:320 h:320](https://cdn-japantimes.com/wp-content/uploads/2015/12/n-hadid-z-20151225.jpg)
-
----
+<!-- _class: emblem -->
 
 ## Emblem plagiarism scandal.
 
-In 2014, a competition was held for the Tokyo Olympic emblem, and that created by Sano, a designer from Tokyo, was chosen.
-However, it turned out to be similar to the logo of the Liege Theater in Belgium.
-In the end, the first Emblem was withdrawn.
-
-![](https://cdn-japantimes.com/wp-content/uploads/2015/07/n-olymplogo-a-20150731.jpg)
+<div class="flex">
+  <p>In 2014, a competition was held for the Tokyo Olympic emblem, and that created by Sano, a designer from Tokyo, was chosen.<br>However, it turned out to be similar to the logo of the Liege Theater in Belgium.<br>In the end, the first Emblem was withdrawn.</p>
+  <figure>
+    <img src="https://cdn-japantimes.com/wp-content/uploads/2015/07/n-olymplogo-a-20150731.jpg" alt="emblem">
+  </figure>
+</div>
 
 ---
 
@@ -72,19 +69,26 @@ In the end, the first Emblem was withdrawn.
 
 - In February 2021, Tokyo Olympic Committee President Mori resigned after being criticized for sexist remarks.
 - In March 2021, Sasaki, who was the creative director of the opening and closing ceremonies, resigned after his comments about Japanese female comedians' appearance became a problem.
-- On July 15, 2021, just before the opening ceremony, Koyama, a member of the creative team, resigned. The reason for his resignation was that he had previously stated in a magazine interview that he had bullied a classmate with a disability from elementary school to high school, and this had been criticized.
-- Furthermore, on the 22nd, the day before the opening ceremony, Mr. Kobayashi, the show director for the opening and closing ceremonies, also resigned. He had previously created a comedy play that is believed to have ridiculed the Holocaust against the Jews.
 
 ---
+
+<!-- _class: resignation -->
+
+- On July 15, 2021, just before the opening ceremony, Koyama, a member of the creative team, resigned. The reason for his resignation was that he had previously stated in a magazine interview that he had bullied a classmate with a disability from elementary school to high school, and this had been criticized.
+- Furthermore, on the 22nd, the day before the opening ceremony, Kobayashi, the show director for the opening and closing ceremonies, also resigned. He had previously created a comedy play that is believed to have ridiculed the Holocaust against the Jews.
+
+---
+
+<!-- _class: conclusion -->
 
 ## Conclusion.
 
 As you can see, the Tokyo Olympics had many problems, until the day before the opening.
 In addition, we had still pandemics.
 In Japan, public opinion had increased that the event should be postponed or canceled.
-
+<br>
 But it was done.
-
+<br>
 As a result, a record number of 5,773 people were confirmed infected in Tokyo on August 13.
 I hope that the organizing committee will be able to verify these problems correctly.
 

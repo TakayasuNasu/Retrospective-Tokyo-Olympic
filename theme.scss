@@ -19,6 +19,7 @@ p {
   vertical-align: baseline;
   line-height: 1.4;
 }
+
 article,
 aside,
 details,
@@ -44,7 +45,7 @@ h1 {
 }
 
 h2 {
-  margin: 0.2em 0;
+  margin: 0.6em 0;
   font-size: 4.6em;
   font-family: "Roboto";
   text-align: center;
@@ -56,7 +57,13 @@ h3 {
 
 p,
 li {
-  font-size: 2.2em;
+  font-size: 1.8em;
+}
+
+li {
+  & + li {
+    margin-top: 2em;
+  }
 }
 
 section {
@@ -91,9 +98,42 @@ section {
     }
   }
 
+  &.resignation {
+    display: flex;
+    align-items: center;
+    ul {
+      height: max-content;
+    }
+  }
+
+  &.conclusion {
+    p {
+      font-size: 1.65em;
+    }
+  }
+
   &.youtube {
     figure {
       text-align: center;
+    }
+  }
+}
+
+div.flex {
+  display: flex;
+  figure {
+    width: 80%;
+  }
+}
+
+img {
+  max-width: 100%;
+}
+
+section {
+  &.emblem {
+    div figure {
+      width: 180%;
     }
   }
 }
